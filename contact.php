@@ -12,7 +12,18 @@
 <body>
 
     <form action="" method="post">
-        ...
+        <div>
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email">
+        </div>
+
+        <div>
+            <textarea name="message" id="message"></textarea>
+        </div>
+
+        <div>
+            <input type="submit" value="OK">
+        </div>
     </form>
     
 </body>
