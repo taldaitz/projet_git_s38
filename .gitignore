@@ -1,0 +1,4 @@
+*.log
+toto.txt
+bin/
+!version
